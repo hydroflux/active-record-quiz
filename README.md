@@ -1,6 +1,6 @@
 # Quiz: Active Record
 
-## Active Recotf
+## Active Record
 
 ?:
 
