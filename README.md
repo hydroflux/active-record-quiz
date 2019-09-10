@@ -1,5 +1,7 @@
 # Quiz: Active Record
 
+???
+
 ## Active Record
 
 ?:
@@ -80,6 +82,7 @@ end
 ( ) `rake` ( ) `rake console` ( ) `rake ls` (X) `rake -T`
 
 ?: When using Active Record migrations, we no longer need SQL to create and change tables and their data.
+
 (X) True ( ) False
 
 ?: To run a migration, which syntax is used?
