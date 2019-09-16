@@ -38,7 +38,7 @@ end
 
 ( ) `.column_names` ( ) `.create` ( ) `.find` (X) None of the Above
 
-?: To by any attribute, such as `make`, which method should be used?
+?: To search by any attribute, such as `make`, which method should be used?
 
 ( ) `.find` ( ) `.find_by_name` ( ) `.filter` (X) `.find_by`
 
@@ -81,7 +81,7 @@ end
 
 ( ) `rake` ( ) `rake console` ( ) `rake ls` (X) `rake -T`
 
-?: When using Active Record migrations, we no longer need SQL to create and change tables and their data.
+?: When using Active Record migrations, we no longer need to write SQL to create and change tables and their data.
 
 (X) True ( ) False
 
