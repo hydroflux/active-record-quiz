@@ -93,7 +93,7 @@ end
 
 ( ) `add_column(table_name, column_name, type)`
 ( ) `column_change(table_name, column_name, type)`
-(X) `rename_column(table_name, column_name, type)`
+(X) `rename_column(table_name, column_name, new_column_name)`
 ( ) `update_column(table_name, column_name, type)`
 
 ???
